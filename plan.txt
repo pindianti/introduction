@@ -1,4 +1,5 @@
 RESOLUSI
 - Konsisten belajar ML (Python n R)
 - Belajar SQL ampe tuntas
-- Beli lagi dong
+- Beli course lagi dong
+- Belajar SQL yg postgre juga boleh
