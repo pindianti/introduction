@@ -3,3 +3,4 @@ RESOLUSI
 - Belajar SQL ampe tuntas
 - Beli course lagi dong
 - Belajar SQL yg postgre juga boleh
+- Sesusaiin ama path data analyst
